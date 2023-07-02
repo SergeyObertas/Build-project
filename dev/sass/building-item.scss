@@ -1,0 +1,49 @@
+.building-item{
+  @extend .genplan;
+}
+.building-info{
+  @extend .genplan-info;
+}
+
+.flats-sale {
+  display: flex;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  padding: 15px 20px;
+  font-size: 24px;
+  span{
+      display: inline-block;
+      margin-left: 20px;
+      font-weight: 900;
+      color: #9b910f;
+  }
+}
+
+.flats-sold{
+  @extend .flats-sale;
+}
+
+.flats-booking{
+  @extend .flats-sale;
+}
+
+.flats-action{
+  @extend .flats-sale;
+}
+
+.flats-sold{
+  @extend .flats-sale;
+}
+
+.stage{
+  stroke:#00ffa000;
+  stroke-width: 3px;
+  fill: #00000000;
+  &:hover {
+    stroke: #0051ff8f;
+    fill: rgb(0 119 255 / 60%);
+}
+  }
+
+
+  
