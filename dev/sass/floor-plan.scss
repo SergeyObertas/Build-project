@@ -1,0 +1,106 @@
+.flat {
+    .bg-status {
+        fill: #D905FC;
+    }
+
+    &.booking {
+        .bg-status {
+            fill: #4E63D3;
+        }
+    }
+
+    &.sale {
+        .bg-status {
+            fill: #F7FC05;
+        }
+    }
+
+    &.sold {
+        .bg-status {
+            fill: #ed0f0f99;
+        }
+    }
+
+    &.discount {
+        .bg-status {
+            fill: #05EDFC;
+        }
+    }
+
+    &.active {
+        .plan {
+            fill: #eb08da;
+            stroke: #eb08da;
+            stroke-width: 5px;
+        }
+    }
+
+
+}
+
+
+.plan {
+    fill: #ff000000;
+    stroke: #ff000000;
+    cursor: pointer;
+
+    &:hover {
+        fill: #80D34E;
+        stroke: #80D34E;
+        stroke-width: 3px;
+    }
+}
+
+.apartament-sold {
+    &:hover {
+        cursor: no-drop;
+        fill: #ff0015fd;
+        stroke: #ff0015fd;
+    }
+}
+
+
+.apartament-booking {
+    &:hover {
+        cursor: no-drop;
+        fill: #4E63D3;
+        stroke: #4E63D3;
+    }
+}
+
+
+.flat-info {
+    display: flex;
+    border-radius: 20px;
+    margin-bottom: 20px
+    
+}
+svg {
+        max-width: 1000px;
+        display: block;
+        margin: 0 auto;
+    }
+
+.floor-plan {
+    max-width: 1200px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.flat-item {
+    padding: 12px;
+    border: 1px solid;
+    font-size: 20px;
+    line-height: 1;
+    display: grid;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+
+    b {
+        font-size: 24px;
+        margin-top: auto;
+        padding-top: 20px;
+
+    }
+}

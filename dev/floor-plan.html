@@ -1,0 +1,177 @@
+@@include('templates/head.html')
+@@include('templates/header.html')
+<main class="wrapper floor-plan-page">
+    <div class="floor-plan outset-neomo">
+        <div id="flat-info" class="flat-info outset-neomo">
+            <div class="flat-item flat-item--house">
+                Номер дома: <b id="house-number"></b>
+            </div>
+            <div class="flat-item flat-item--floors">
+                Этаж: <b id="floor-number"></b>
+            </div>
+            <div class="flat-item flat-item--rooms">
+                Кол-во квартир: <b id="quatity-flat"></b>
+            </div>
+            <div class="flat-item flat-item--square">
+                Площадь: <b id="flat-square"></b>
+            </div>
+            <div class="flat-item flat-item--price">
+                Цена за м²: <b id="price-meter"></b>
+            </div>
+            <div class="flat-item flat-item--price-total">
+                Цена за квартиру: <b id="price-total"></b>
+            </div>
+            <div class="flat-item flat-item--number">
+                Номер квартиры: <b id="flat-number"></b>
+            </div>
+            <div class="flat-item flat-item--status">
+                Статус квартиры: <b id="flat-status"></b>
+            </div>
+        </div 
+        
+        <div class="floor-plan-info outset-neomo">
+            <svg viewBox="0 0 1140 839" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <image id="image0_28_236" data-name="plan.png" width="1140" height="839" xlink:href="assets/img/plan.jpg" />
+                <g id="floor-plan">
+                    <g data-number="1" class="flat booking">
+                        <path class="plan apartament-booking" d="M0.5 4.5V391.5V395H286V386.5H268.5V332H285L266.5 301V299H269V293H339.5V4.5H0.5Z" fill="#CDF9F4" fill-opacity="0.3" stroke="#CDF9F4" />
+                        <g id="status">
+                            <path id="Rectangle 396" d="M206 157.353L112 157V197.647L206 198V157.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376">
+                                <text id="Action" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="135" y="181.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375">
+                                <path id="Rectangle 397" d="M131 157H112V197.5H131V157Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="118" y="181.864">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="2" class="flat sale">
+                        <path class="plan apartament-sale" d="M685.5 4.5H340.5V279.5H581.5V296L613 278H614.5V279.5H685.5V4.5Z" fill="#FFCDC9" fill-opacity="0.29" stroke="#FFCDC9" />
+                        <g id="status_2">
+                            <path id="Rectangle 396_2" d="M559 21.3532L465 21V61.6468L559 62V21.3532Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_2">
+                                <text id="8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="493" y="42.5909" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_2">
+                                <path id="Rectangle 397_2" d="M484 21H465V61.5004H484V21Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="470" y="42.5909">2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="3" class="flat sold">
+                        <path class="plan apartament-sold" d="M1139.5 4.5H686.5V279.5H828.5V297.5L861.5 276.5V279.5H867.5V275.5H1139.5V4.5Z" fill="#CDF5CD" fill-opacity="0.22" stroke="#CDF5CD" />
+                        <g id="status_3">
+                            <path id="Rectangle 396_3" d="M910 21.3532L816 21V61.6468L910 62V21.3532Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_3">
+                                <text id="Action_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="839" y="45.1818" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_3">
+                                <path id="Rectangle 397_3" d="M835 21H816V61.5004H835V21Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="3_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="822" y="45.8636">3</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="4" class="flat discount">
+                        <path class="plan apartament-discount" d="M868.5 398.73V276.5H1139.5V567.5H929.5V452.5H853.5V448.5H868.5V431.5H870.5V430.5L851.5 398.73H868.5Z" fill="#E9E9FF" fill-opacity="0.33" stroke="#E9E9FF" />
+                        <g id="status_4">
+                            <path id="Rectangle 396_4" d="M1087 449.353L993 449V489.647L1087 490V449.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_4">
+                                <text id="Action_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="1016" y="473.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_4">
+                                <path id="Rectangle 397_4" d="M1012 449H993V489.5H1012V449Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="4_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="998" y="473.864">4</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="5" class="flat">
+                        <path class="plan" d="M853.5 455.5V453.5H928.5V568.5H1139.5V838.5H800.5V563.5H868.5V553.5H870.5V552.5L851.5 520.5H868.5V455.5H853.5Z" fill="#2DA74F" fill-opacity="0.34" stroke="#21993B" />
+                        <g id="status_5">
+                            <path id="Rectangle 396_5" d="M1133 653.353L1039 653V693.647L1133 694V653.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_5">
+                                <text id="Action_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="1062" y="677.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_5">
+                                <path id="Rectangle 397_5" d="M1058 653H1039V693.5H1058V653Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="5_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="1044" y="677.591">5</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="6" class="flat booking">
+                        <path class="plan apartament-booking" d="M668.5 563.5H799.5V838.5H570.5V563.5H634.5V565.5L668.5 545.5V563.5Z" fill="#FDBAFA" fill-opacity="0.3" stroke="#FDBAFA" />
+                        <g id="status_6">
+                            <path id="Rectangle 396_6" d="M674 778.353L580 778V818.647L674 819V778.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_6">
+                                <text id="Action_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="603" y="802.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_6">
+                                <path id="Rectangle 397_6" d="M599 778H580V818.5H599V778Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="6_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="586" y="800.864">6</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="7" class="flat sold">
+                        <path class="plan apartament-sold" d="M505.5 563.5H569.5V838.5H340V563.5H472.5V546L505.5 566V563.5Z" fill="#FFFED1" fill-opacity="0.3" stroke="#FFFED1" />
+                        <g id="status_7">
+                            <path id="Rectangle 396_7" d="M440 572.353L346 572V612.647L440 613V572.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_7">
+                                <text id="Action_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="369" y="596.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_7">
+                                <path id="Rectangle 397_7" d="M365 572H346V612.5H365V572Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="7_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="352" y="596.864">7</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-number="8" class="flat">
+                        <path class="plan" d="M312.5 563.5H339V838.5H0.5V563.5H278.5V566L312.5 546V563.5Z" fill="#FABB9E" fill-opacity="0.3" stroke="#FABB9E" />
+                        <g id="status_8">
+                            <path id="Rectangle 396_8" d="M325 778.353L231 778V818.647L325 819V778.353Z" fill="white" stroke="black" stroke-width="2" />
+                            <g id="Group 376_8">
+                                <text id="Action_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="254" y="802.182" class="status-text">&#x410;&#x43a;&#x446;&#x438;&#x44f; </tspan>
+                                </text>
+                            </g>
+                            <g id="Group 375_8">
+                                <path id="Rectangle 397_8" d="M250 778H231V818.5H250V778Z" class="bg-status" fill="#80D34E" stroke="black" stroke-width="2" />
+                                <text id="8_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em">
+                                    <tspan x="236" y="801.864">8</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </div>
+    </div>
+</main>
+@@include('templates/footer.html')

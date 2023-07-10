@@ -1,0 +1,116 @@
+<svg width="1140" height="839" viewBox="0 0 1140 839" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Floor-plan">
+<rect id="Rectangle 398" width="1140" height="839" fill="#D9D9D9"/>
+<rect id="plan 1" width="1140" height="839" fill="url(#pattern0)"/>
+<g id="1">
+<path id="plan-1" d="M0.5 4.5V391.5V395H286V386.5H268.5V332H285L266.5 301V299H269V293H339.5V4.5H0.5Z" fill="#CDF9F4" fill-opacity="0.3" stroke="#CDF9F4"/>
+<g id="status">
+<path id="Rectangle 396" d="M206 157.353L112 157V197.647L206 198V157.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376">
+<text id="Action" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="135" y="181.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375">
+<path id="Rectangle 397" d="M131 157H112V197.5H131V157Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="118" y="181.864">1</tspan></text>
+</g>
+</g>
+</g>
+<g id="2">
+<path id="plan-2" d="M685.5 4.5H340.5V279.5H581.5V296L613 278H614.5V279.5H685.5V4.5Z" fill="#FFCDC9" fill-opacity="0.29" stroke="#FFCDC9"/>
+<g id="status_2">
+<path id="Rectangle 396_2" d="M559 21.3532L465 21V61.6468L559 62V21.3532Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_2">
+<text id="8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="493" y="42.5909">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_2">
+<path id="Rectangle 397_2" d="M484 21H465V61.5004H484V21Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="470" y="42.5909">2</tspan></text>
+</g>
+</g>
+</g>
+<g id="3">
+<path id="3_2" d="M1139.5 4.5H686.5V279.5H828.5V297.5L861.5 276.5V279.5H867.5V275.5H1139.5V4.5Z" fill="#CDF5CD" fill-opacity="0.22" stroke="#CDF5CD"/>
+<g id="status_3">
+<path id="Rectangle 396_3" d="M910 21.3532L816 21V61.6468L910 62V21.3532Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_3">
+<text id="Action_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="839" y="45.1818">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_3">
+<path id="Rectangle 397_3" d="M835 21H816V61.5004H835V21Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="3_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="822" y="45.8636">3</tspan></text>
+</g>
+</g>
+</g>
+<g id="4">
+<path id="plan-4" d="M868.5 398.73V276.5H1139.5V567.5H929.5V452.5H853.5V448.5H868.5V431.5H870.5V430.5L851.5 398.73H868.5Z" fill="#E9E9FF" fill-opacity="0.33" stroke="#E9E9FF"/>
+<g id="status_4">
+<path id="Rectangle 396_4" d="M1087 449.353L993 449V489.647L1087 490V449.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_4">
+<text id="Action_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1016" y="473.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_4">
+<path id="Rectangle 397_4" d="M1012 449H993V489.5H1012V449Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="4_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="998" y="473.864">4</tspan></text>
+</g>
+</g>
+</g>
+<g id="5">
+<path id="5_2" d="M853.5 455.5V453.5H928.5V568.5H1139.5V838.5H800.5V563.5H868.5V553.5H870.5V552.5L851.5 520.5H868.5V455.5H853.5Z" fill="#2DA74F" fill-opacity="0.34" stroke="#21993B"/>
+<g id="status_5">
+<path id="Rectangle 396_5" d="M1133 653.353L1039 653V693.647L1133 694V653.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_5">
+<text id="Action_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1062" y="677.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_5">
+<path id="Rectangle 397_5" d="M1058 653H1039V693.5H1058V653Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="5_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1044" y="677.591">5</tspan></text>
+</g>
+</g>
+</g>
+<g id="6">
+<path id="plan-6" d="M668.5 563.5H799.5V838.5H570.5V563.5H634.5V565.5L668.5 545.5V563.5Z" fill="#FDBAFA" fill-opacity="0.3" stroke="#FDBAFA"/>
+<g id="status_6">
+<path id="Rectangle 396_6" d="M674 778.353L580 778V818.647L674 819V778.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_6">
+<text id="Action_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="603" y="802.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_6">
+<path id="Rectangle 397_6" d="M599 778H580V818.5H599V778Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="6_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="586" y="800.864">6</tspan></text>
+</g>
+</g>
+</g>
+<g id="7">
+<path id="plan-7" d="M505.5 563.5H569.5V838.5H340V563.5H472.5V546L505.5 566V563.5Z" fill="#FFFED1" fill-opacity="0.3" stroke="#FFFED1"/>
+<g id="status_7">
+<path id="Rectangle 396_7" d="M440 572.353L346 572V612.647L440 613V572.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_7">
+<text id="Action_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="369" y="596.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_7">
+<path id="Rectangle 397_7" d="M365 572H346V612.5H365V572Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="7_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="352" y="596.864">7</tspan></text>
+</g>
+</g>
+</g>
+<g id="8_2">
+<path id="plan-8" d="M312.5 563.5H339V838.5H0.5V563.5H278.5V566L312.5 546V563.5Z" fill="#FABB9E" fill-opacity="0.3" stroke="#FABB9E"/>
+<g id="status_8">
+<path id="Rectangle 396_8" d="M325 778.353L231 778V818.647L325 819V778.353Z" fill="white" stroke="black" stroke-width="2"/>
+<g id="Group 376_8">
+<text id="Action_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="254" y="802.182">&#x410;&#x43a;&#x446;&#x438;&#x44f;          </tspan></text>
+</g>
+<g id="Group 375_8">
+<path id="Rectangle 397_8" d="M250 778H231V818.5H250V778Z" fill="#80D34E" stroke="black" stroke-width="2"/>
+<text id="8_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="236" y="801.864">8</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_28_236" transform="scale(0.000877193 0.0011919)"/>
+</pattern>
+<image id="image0_28_236" data-name="plan.png" width="1140" height="839" xlink:href=""/>
+</defs>
+</svg>

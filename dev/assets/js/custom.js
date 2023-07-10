@@ -61,3 +61,32 @@
     } )
 
   })
+
+
+  const flats = document.querySelectorAll('.flat');
+
+  flats.forEach(flat => {
+    if(flat.classList.contains('booking')){
+      flat.querySelector('.status-text').innerHTML = "Booking";
+    }
+    else if(flat.classList.contains('sold')){
+    flat.querySelector('.status-text').innerHTML = "Sold";
+  }
+  else if(flat.classList.contains('sale')){
+    flat.querySelector('.status-text').innerHTML = "Sale";
+  } 
+  else if(flat.classList.contains('discount')){
+    flat.querySelector('.status-text').innerHTML = "Discount";
+  } 
+  else{
+    flat.querySelector('.status-text').innerHTML = "Free"
+  }
+
+  })
+
+
+
+
+  
+
+
